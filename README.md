@@ -70,3 +70,6 @@ This sends the same prompt three times with different temperature values:
 ## Important Note
 
 This project uses `client.chat.completions.create()` because that is the API method required for this assignment. OpenAI also has newer APIs for some use cases, but this project intentionally stays simple and focused on Chat Completions.
+
+## Origin URL of this project
+```https://roadmap.sh/projects/openai-api-python```
